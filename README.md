@@ -1,1 +1,1 @@
-# mechoca.github.io
+# mechoca
